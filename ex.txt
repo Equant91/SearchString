@@ -1,0 +1,8 @@
+total 0
+drwxrwxrwx 1 equant equant 4096 Jul 13 19:14 .
+drwxrwxrwx 1 equant equant 4096 Jul 13 18:33 ..
+drwxrwxrwx 1 equant equant 4096 Jul 13 18:33 .git
+drwxrwxrwx 1 equant equant 4096 Jul 13 18:33 .idea
+-rw-rw-rw- 1 equant equant  425 Jul 13 18:33 SearchString.iml
+-rw-rw-rw- 1 equant equant    0 Jul 13 19:14 ex.txt
+drwxrwxrwx 1 equant equant 4096 Jul 13 18:33 src
